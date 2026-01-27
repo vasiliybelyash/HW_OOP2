@@ -93,7 +93,7 @@
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
-                                            <value><![CDATA[COVERED RATIO]]></value>
+                                            <value>COVERED RATIO</value>
                                             <minimum>100%</minimum>
                                         </limit>
                                     </limits>
